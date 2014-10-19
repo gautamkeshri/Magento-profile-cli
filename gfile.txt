@@ -1,1 +1,0 @@
-run magento from cli code
